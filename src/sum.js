@@ -1,5 +1,5 @@
 /** Calculating the average in a given array
- * @param {array []} 
+ * @param {number []} 
  * @returns {number} 
  */
 
